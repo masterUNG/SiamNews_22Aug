@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Siam DailyNew</string>
+    <string name="user">User :</string>
+    <string name="password">password</string>
+    <string name="name">Name :</string>
+    <string name="division">คณะ</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="have_space">Have Space</string>
+    <string name="message_have_space">Please Fill All Every Blank</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="re_password">Re Password</string>
+    <string name="title_not_math">Password Not Math</string>
+    <string name="message_not_math">Please Type Two Password Math</string>
+    <string name="title_non_choose">Non Choose Gender</string>
+    <string name="message_non_choose">Please Choose Gender</string>
+
+</resources>
