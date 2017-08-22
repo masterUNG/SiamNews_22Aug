@@ -35,7 +35,25 @@
         android:orientation="vertical"
         android:background="#ffffff"
         android:layout_width="320dp"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent">
+
+        <!--News-->
+        <TextView
+            android:text="News"
+            android:textStyle="bold"
+            android:textSize="@dimen/h2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <!--Event-->
+        <TextView
+            android:text="Event"
+            android:textStyle="bold"
+            android:textSize="@dimen/h2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
 
 
 </android.support.v4.widget.DrawerLayout>
